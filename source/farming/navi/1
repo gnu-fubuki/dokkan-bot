@@ -1,0 +1,19 @@
+{command}friends <list/accept/search/request> {description}- manage your friends.
+<list> - list of your friends & pending requests.
+<accept> - accept a pending request.
+<search> - search a user by ID. (FC/ID)
+<request> - send a pending request to a user.
+{command}identifier {description}- account identifier.
+{command}info {description}- account info.
+{command}items {description}- support, training, orbs, treasure, special.
+{command}link <list/fb/unlink> {description}- facebook linking.
+<list> - list of linked third party accounts.
+<fb> - link account to facebook.
+<unlink> - remove facebook from account.
+{command}meat {description}- list of your stamina refill items.
+{command}medals {description}- list of your awakening medals.
+{command}name <name> {description}- change your name.
+<name> - your new account name.
+{command}wallpaper <list/set> {description}- wallpaper management.
+<list> - list of wallpapers on your account.
+<set> - set your wallpaper by ID. (you must own the wallpaper)

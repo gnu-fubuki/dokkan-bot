@@ -1,0 +1,32 @@
+{command}clash {description}- attempt to clear battlefield.
+{command}clear <quests/events/eza> {description}- complete all uncleared.
+<quests> - streamline quests from last cleared.
+<events> - streamline active events from last cleared.
+<eza> - streamline active EZAs. (to max level)
+{command}dbs <list/seek/wish> {description}- manage your dragonballs.
+<list> - list of collected dragonballs.
+<seek> - automatically collect quest dragonballs.
+<wish> - make a wish using quest dragonballs.
+{command}event <list/area/stage/keys> {description}- event management.
+<list> - active list including stage ID & difficulty per stage.
+<area> - complete an entire event / quest area.
+<stage> - complete a specific stage by ID.
+<keys> - list of events you can use keys on.
+{command}eza <list/clear/level/exact> {description}- EZA management.
+<list> - list of active EZAs.
+<clear> - complete EZA by ID to max level.
+<level> - complete a specific EZA level.
+<exact> - clear EZA levels from A to Z.
+{command}farm <medal/dupe/zeni/rank/gems>{description}- farm till specific amount.
+<medal> - specific amount of medals by stage ID.
+<dupe> - specific amount of dupes by stage ID.
+<zeni> - clear an EZA till specific amount of zeni is reached.
+<rank> - clear a quest stage till levels provided.
+<gem> - clear profitable gem stages till specific amount.
+{command}omega {description}- finish maximum limit of content.
+{command}run <1/2/3/4/5> {description}- specific group of stages.
+<1> - daily events / missions.
+<2> - uncleared bossrush stages.
+<3> - hercule punch.
+<4> - SBR / super battle road.
+<5> - clear active potential events.

@@ -1,0 +1,6 @@
+{command}banners {description}- list of banners.
+{command}summon <id> <s/m> <times>/ <history> {description}- summon on banners.
+<id> - the banner ID.
+<s/m> - s = single summon / m = multi summon.
+<times> - how many times / blank for 1.
+<history> - summon history.

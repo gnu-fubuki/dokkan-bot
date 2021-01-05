@@ -1,0 +1,8 @@
+{command}api {description}- print current API domain & API port.
+{command}news {description}- print in-game news.
+{command}wallpapers {description}- dump all wallpapers in database to "wallpapers.txt"
+{command}limits {description}- dump all stages with limits/conditions to "stage_limits.txt"
+{command}mdb {description}- dump all medals in database to "medals.txt"
+{command}idb {description}- dump all items in database to "items.txt"
+{command}meat {description}- dump all stamina items in database to "meat.txt"
+{command}db {description}- output current database timestamp.

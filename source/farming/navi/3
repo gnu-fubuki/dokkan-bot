@@ -1,0 +1,14 @@
+{command}box {description}- view all your cards.
+additional arguments: <n, r, sr, ssr, ur, lr, items>
+{command}favorite <card uid> {description}- add a card to favorites.
+<card uid> - the unique box ID of the card to favorite/lock.
+{command}leader <card uid> {description}- set friend/support leader.
+{command}potential <dupes> {description}- hidden potential.
+<dupes> - use dupes to unlock paths by card UID.
+{command}team <list/set/build> {description}- team management.
+<list> - list of all your decks.
+<set> - set using deck by number.
+<build> - build team in deck 1 using card uid(s).
+{command}train <card uid> <card uid(s)> {description}- card training.
+<card uid> - unique box ID of the card you want to train.
+<card uid(s)> - fodder to fight. e.g. 1234,1234,1234

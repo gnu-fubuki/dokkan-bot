@@ -1,0 +1,12 @@
+{command}1 {description}- Account
+{command}2 {description}- Farming
+{command}3 {description}- Units
+{command}4 {description}- Tools
+{command}5 {description}- Summons
+{command}6 {description}- Shops
+{command}7 {description}- Options
+{message}use "help <page>" to navigate.
+{description}e.g. | help 2
+
+{command}exit {description}- main menu.
+{command}ctrl+c to stop the bot.

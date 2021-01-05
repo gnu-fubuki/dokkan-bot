@@ -1,0 +1,4 @@
+{command}capacity <how many>{description}- increase box size 5+ each time.
+{command}gift {description}- accept missions & gifts.
+{command}refresh {description}- refreshes the session.
+{command}stam {description}- manual stamina refill.

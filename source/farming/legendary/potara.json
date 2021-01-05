@@ -1,0 +1,424 @@
+{
+  "missions": [
+    {
+      "description": "6 SSR or lower.",
+      "ids": ["10012", "10022", "10052", "20052", "30012", "30032"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "70 or less team cost..",
+      "ids": ["10032", "10042", "10052", "20042", "20052"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 70,
+      "max": 1
+    },
+    {
+      "description": "Hercule on team.",
+      "ids": ["20012", "20022", "20032"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "65 or less team cost.",
+      "ids": ["30012", "30022", "30032", "30042", "30052", "30062", "30072"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 65,
+      "max": 1
+    },
+    {
+      "description": "Turtle school link.",
+      "ids": ["30022", "30032", "30042", "30052", "30062", "30072", "30082"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 3
+    },
+    {
+      "description": "Tien & Chiaotzu on team.",
+      "ids": ["30082"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "Experienced fighters link.",
+      "ids": ["40012", "40022", "40032", "40042"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 3
+    },
+    {
+      "description": "Prodigies link.",
+      "ids": ["40052", "40062", "40072", "40082"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 3
+    },
+    {
+      "description": "Shocking speed link.",
+      "ids": ["50012", "50022", "50042", "50052"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 3
+    },
+    {
+      "description": "Krillin on team.",
+      "ids": ["50032"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "Gohan [kid] on team.",
+      "ids": ["50032"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "Brutal beatdown link.",
+      "ids": ["50062", "50072", "50082", "50092", "50102"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 3
+    },
+    {
+      "description": "Soul vs soul link.",
+      "ids": ["60012", "60022", "60032", "60042", "60052", "60062"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 3
+    },
+    {
+      "description": "Android assault link.",
+      "ids": ["60072", "60082", "60102"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 3
+    },
+    {
+      "description": "Android #17 on team.",
+      "ids": ["60092"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "Android #18 on team.",
+      "ids": ["60092"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "World tournament category.",
+      "ids": ["70012", "70022", "70032", "70042", "70052"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 2
+    },
+    {
+      "description": "Yamcha on team.",
+      "ids": ["70062"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "Peppy gals category.",
+      "ids": ["70072", "70082", "70092"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 2
+    },
+    {
+      "description": "Goku on team.",
+      "ids": ["70102"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "Hybrid saiyans category.",
+      "ids": ["80012", "80022", "80032", "80042", "80052"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 2
+    },
+    {
+      "description": "Resurrected warriors category.",
+      "ids": ["80062", "80072", "80082", "80092", "80102"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 2
+    },
+    {
+      "description": "Super strike link.",
+      "ids": ["90012", "90022", "90032"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 3
+    },
+    {
+      "description": "Trunks [teen] on team.",
+      "ids": ["90012", "90022", "90032"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "Z-Fighters link.",
+      "ids": ["100032", "100042", "100052", "100062", "100072", "100082", "110032", "110042", "110052", "110062", "110072", "110082"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 6
+    },
+    {
+      "description": "Prodigies link.",
+      "ids": ["120032", "120042", "120052", "120062", "120072", "120082", "130032", "130042", "130052", "130062", "130072", "130082"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 6
+    },
+    {
+      "description": "Saiyan warrior race link.",
+      "ids": ["140032", "140042", "140052", "140062", "140072", "140082"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 6
+    },
+    {
+      "description": "Vegito on team.",
+      "ids": ["150012", "150022", "150032", "210013", "210023", "210033", "270013", "270023", "270033"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "Golden warrior link.",
+      "ids": ["160032", "160042", "160052", "160062", "160072", "160082", "170032", "170042", "170042", "170052", "170062", "170072", "170082"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 6
+    },
+    {
+      "description": "Shocking speed link.",
+      "ids": ["180032", "180042", "180052", "180062", "180072", "180082", "190033", "190043", "190053", "190063", "190073", "190083"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 6
+    },
+    {
+      "description": "Fused fighter link.",
+      "ids": ["200033", "200403", "200053", "200063", "200073", "200083"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 6
+    },
+    {
+      "description": "Fierce battle link.",
+      "ids": ["220053", "220063", "220073", "230053", "230063", "230073", "240053", "240063", "240073", "250053", "250063", "250073", "260053", "260063", "260073"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 6
+    },
+    {
+      "description": "AGL Fierce battle link.",
+      "ids": ["220083"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "TEQ Fierce battle link.",
+      "ids": ["230083"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "INT Fierce battle link.",
+      "ids": ["240083"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "STR Fierce battle link.",
+      "ids": ["250083"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "PHY Fierce battle link.",
+      "ids": ["260083"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "AGL only.",
+      "ids": ["50012", "50022", "50042", "50052", "220034", "220044"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "TEQ only.",
+      "ids": ["40012", "40022", "40032", "40042", "70012", "70022", "70032", "70042", "70052", "70062", "70072", "70082", "70092", "70102", "80012", "80022", "80032", "80042", "80052", "230034", "230044"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "INT only.",
+      "ids": ["40052", "40062", "40072", "40082", "240034", "240044"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "STR only.",
+      "ids": ["60012", "60022", "60032", "60042", "60052", "60062", "80072", "80082", "80092", "80102", "250034", "250044"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    },
+    {
+      "description": "PHY only.",
+      "ids": ["50062", "50072", "50082", "50092", "50102", "60072", "60082", "60102", "260034", "260044"],
+      "element": [],
+      "cards": [],
+      "links": [],
+      "cats": [],
+      "cost": 0,
+      "max": 1
+    }
+  ]
+}

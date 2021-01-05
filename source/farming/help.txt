@@ -1,0 +1,91 @@
+{command}baba <list/sell/buy> {description}- babashop.
+<list> - outputs list of items to buy by category. (bp,zeni,treasure)
+<sell> - exchanges cards by unique id (UID) for BP.
+<buy> - buy item by category using item ID. (bp,zeni,treasure)
+{command}banners {description}- list of banners.
+{command}box {description}- view all your cards.
+{command}capacity <how many>{description}- increase box size 5+ each time.
+{command}clash {description}- attempt to clear battlefield.
+{command}clear <quests/events/eza> {description}- complete all uncleared.
+<quests> - streamline quests from last cleared.
+<events> - streamline active events from last cleared.
+<eza> - streamline active EZAs. (to max level)
+{command}dbs <list/seek/wish> {description}- manage your dragonballs.
+<list> - list of collected dragonballs.
+<seek> - automatically collect quest dragonballs.
+<wish> - make a wish using quest dragonballs.
+{command}event <list/area/stage> {description}- event management.
+<list> - active list including stage ID & difficulty per stage.
+<area> - complete an entire event / quest area.
+<stage> - complete a specific stage by ID.
+{command}eza <list/clear/level> {description}- EZA management.
+<list> - list of active EZAs.
+<clear> - complete EZA by ID to max level.
+<level> - complete a specific EZA level.
+{command}farm <medal/dupe/zeni/rank/gems>{description}- farm till specific amount.
+<medal> - specific amount of medals by stage ID.
+<dupe> - specific amount of dupes by stage ID.
+<zeni> - clear an EZA till specific amount of zeni is reached.
+<rank> - clear a quest stage till levels provided.
+<gem> - clear profitable gem stages till specific amount.
+{command}favorite <card uid> {description}- add a card to favorites.
+<card uid> - the unique box ID of the card to favorite/lock.
+{command}friends <list/accept/search/request> {description}- manage your friends.
+<list> - list of your friends & pending requests.
+<accept> - accept a pending request.
+<search> - search a user by ID. (FC/ID)
+<request> - send a pending request to a user.
+{command}gift {description}- accept missions & gifts.
+{command}help {description}- shows this.
+{command}identifier {description}- account identifier.
+{command}info {description}- account info.
+{command}items {description}- support, training, orbs, treasure, special.
+{command}link <list/fb/unlink> {description}- facebook linking.
+<list> - list of linked third party accounts.
+<fb> - link account to facebook.
+<unlink> - remove facebook from account.
+{command}medals {description}- list of your awakening medals.
+{command}name <name> {description}- change your name.
+<name> - your new account name.
+{command}news {description}- in-game news.
+{command}omega {description}- finish maximum limit of content.
+{command}sell <card uid/quick> {description}- card selling.
+<card uid> - unique box ID of the card to sell.
+<quick> - bot will sell & baba all useless N,R,SR, & statues.
+{command}refresh {description}- refreshes the session.
+{command}run <1/2/3/4/5> {description}- specific group of stages.
+<1> - daily events / missions.
+<2> - uncleared bossrush stages.
+<3> - hercule punch.
+<4> - SBR / super battle road.
+<5> - clear active potential events.
+{command}stam {description}- manual stamina refill.
+{command}summon <id> <s/m> / <history> {description}- summon on banners.
+<id> - the banner ID.
+<s/m> - s = single summon / m = multi summon.
+<history> - summon history.
+{command}team <list/set/build> {description}- team management.
+<list> - list of all your decks.
+<set> - set using deck by number.
+<build> - build team in deck 1 w/ cat,mono,class,condition.
+{command}toggle <stone/tb> {description}- toggle preferences.
+<stone> - automatic stamina-refill. (ON by default)
+<tb> - automatic team-builder. (ON by default)
+<drops> - show names of drops. (ON by default)
+<ids> - show card IDs everywhere. (OFF by default)
+<cards> - show ONLY card IDs. (OFF by default)
+<names> - show stage info via database. (ON by default)
+<gifts> - display claimed gifts. (OFF by default)
+<missions> - display claimed missions. (OFF by default)
+<dropnames> - display names of drops. (ON by default)
+<stack> - organize & stack drops. (ON by default)
+{command}train <card uid> <card uid(s)> {description}- card training.
+<card uid> - unique box ID of the card you want to train.
+<card uid(s)> - fodder to fight. e.g. 1234,1234,1234
+{command}wallpaper <list/set> {description}- wallpaper management.
+<list> - list of wallpapers on your account.
+<set> - set your wallpaper by ID. (you must own the wallpaper)
+
+{command}delete {description}- delete save.
+{command}exit {description}- main menu.
+{command}ctrl+c to stop the bot.
